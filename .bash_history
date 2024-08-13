@@ -320,3 +320,24 @@ git credential-cache exit
 git remote -v
 git remote set-url origin https://github.com/arun-choicely/Choicely-aws.git
 git push origin master
+ls
+git add .
+git remote -v
+git init
+git remote -v
+git add .
+git commit -m "Initial check-in of backend and frontend code"
+git push -u origin master
+git remote -v
+git add .
+git commit -m "Initial check-in of backend and frontend code"
+git push -u origin master
+git config --global --list
+git remote -v
+git config -l | grep url
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws-test.git
+git remote -v
+git push -u origin master
+vi .git/config 
+git push -u origin master
+vi .git/config 
