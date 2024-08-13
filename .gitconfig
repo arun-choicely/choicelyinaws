@@ -1,3 +1,5 @@
 [user]
 	name = arun@choicely.ai
 	email = arun@choicely.ai
+[credential]
+	helper = cache
