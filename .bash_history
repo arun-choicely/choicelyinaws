@@ -167,3 +167,88 @@ cd ..
 ls
 npm run build
 npm start
+sudo systemctl status mongod
+sudo apt update
+sudo apt install git
+git config --global user.name "arun@choicely.ai"
+git config --global user.email "arun@choicely.ai"
+git init
+git remote add origin https://github.com/your-username/your-repo.git
+ls
+git add .
+git commit -m "Your commit message"
+git commit -m "Initial commit"
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/your-username/your-repo.git
+git init
+git add .
+git commit -m "Initial commit"
+git status
+cd brand-influencer-platform/
+git status
+git add .
+git commit -m "Initial commit"
+git remote -v
+git remote add origin https://github.com/arun-choicely/Choicely-aws
+git remote set-url origin <repository-url>
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws
+git remote -v
+git push -u origin master
+git credential-cache exit
+git push -u origin master
+git remote add origin https://github.com/arun-choicely/Choicely-aws.git
+git remote -v
+git remote add origin https://github.com/arun-choicely/Choicely-aws.
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws.git
+git remote -v
+git push -u origin master
+git credential-cache exit
+git push -u origin master
+ls
+cd ..
+ls
+cd backend/
+ls
+cd ..
+cd backend/
+cd ..
+git add backend/
+git status
+git commit -m "Added backend"
+cd backend/
+git commit -m "Initial checkin of backend"
+cd ..
+git init
+git add backend brand-influencer-platform
+git commit -m "Initial check in"
+git remote add origin https://github.com/arun-choicely/Choicely-aws.git
+git remote -v
+git remote add origin https://github.com/arun-choicely/Choicely-aws.git
+git remote set-url ubuntu@ip-172-31-83-137:~$ git remote add origin https://github.com/arun-choicely/Choicely-aws.git
+error: remote origin already exists.
+ubuntu@ip-172-31-83-137:~$ 
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws.git
+git remote -v
+git push -u origin master
+git push -u origin master --force
+ls
+cd brand-influencer-platform
+ls
+cd src
+ls
+vi App.js
+cd..
+cd ..
+node start
+cd src
+node start
+cd ..
+npm start
+cd brand-influencer-platform/
+ls
+cd ..
+ls
+cd backend
+ls
+npm start

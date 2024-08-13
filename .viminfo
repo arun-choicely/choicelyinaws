@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1723524880,,"q"
+|2,0,1723573528,,"q"
+:Q
+|2,0,1723565010,,"Q"
 :w
 |2,0,1723524492,,"w"
 
@@ -63,234 +65,238 @@
 |3,0,9,1,1,0,1723522443,"{"
 
 # File marks:
-'0  8  30  ~/brand-influencer-platform/src/App.js
-|4,48,8,30,1723524880,"~/brand-influencer-platform/src/App.js"
-'1  5  30  ~/brand-influencer-platform/src/App.js
-|4,49,5,30,1723524770,"~/brand-influencer-platform/src/App.js"
-'2  5  30  ~/brand-influencer-platform/src/App.js
-|4,50,5,30,1723524770,"~/brand-influencer-platform/src/App.js"
-'3  33  2  ~/brand-influencer-platform/package.json
-|4,51,33,2,1723524621,"~/brand-influencer-platform/package.json"
-'4  1  0  ~/brand-influencer-platform/src/config.js
-|4,52,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
-'5  1  0  ~/brand-influencer-platform/src/config.js
-|4,53,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
-'6  2  0  ~/brand-influencer-platform/src/config.js
-|4,54,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
-'7  2  0  ~/brand-influencer-platform/src/config.js
-|4,55,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
-'8  2  0  ~/brand-influencer-platform/src/config.js
-|4,56,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
-'9  2  0  ~/brand-influencer-platform/src/config.js
-|4,57,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
+'0  1  0  ~/brand-influencer-platform/src/pages/CreateProfile.js
+|4,48,1,0,1723573528,"~/brand-influencer-platform/src/pages/CreateProfile.js"
+'1  41  5  ~/brand-influencer-platform/src/App.js
+|4,49,41,5,1723573509,"~/brand-influencer-platform/src/App.js"
+'2  1  0  ~/brand-influencer-platform/src/pages/HomePage.js
+|4,50,1,0,1723566445,"~/brand-influencer-platform/src/pages/HomePage.js"
+'3  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,51,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+'4  1  0  ~/brand-influencer-platform/src/index.css
+|4,52,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+'5  1  0  ~/brand-influencer-platform/src/index.js
+|4,53,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+'6  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,54,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+'7  1  0  ~/brand-influencer-platform/src/setupTests.js
+|4,55,1,0,1723566347,"~/brand-influencer-platform/src/setupTests.js"
+'8  1  0  ~/brand-influencer-platform/src/App.test.js
+|4,56,1,0,1723566333,"~/brand-influencer-platform/src/App.test.js"
+'9  41  0  ~/brand-influencer-platform/src/App.js
+|4,57,41,0,1723566212,"~/brand-influencer-platform/src/App.js"
 
 # Jumplist (newest first):
--'  8  30  ~/brand-influencer-platform/src/App.js
-|4,39,8,30,1723524880,"~/brand-influencer-platform/src/App.js"
--'  5  30  ~/brand-influencer-platform/src/App.js
-|4,39,5,30,1723524874,"~/brand-influencer-platform/src/App.js"
--'  5  30  ~/brand-influencer-platform/src/App.js
-|4,39,5,30,1723524770,"~/brand-influencer-platform/src/App.js"
--'  6  32  ~/brand-influencer-platform/src/App.js
-|4,39,6,32,1723524767,"~/brand-influencer-platform/src/App.js"
--'  6  32  ~/brand-influencer-platform/src/App.js
-|4,39,6,32,1723524767,"~/brand-influencer-platform/src/App.js"
--'  10  0  ~/brand-influencer-platform/src/App.js
-|4,39,10,0,1723524745,"~/brand-influencer-platform/src/App.js"
--'  10  0  ~/brand-influencer-platform/src/App.js
-|4,39,10,0,1723524745,"~/brand-influencer-platform/src/App.js"
--'  33  2  ~/brand-influencer-platform/package.json
-|4,39,33,2,1723524621,"~/brand-influencer-platform/package.json"
--'  33  2  ~/brand-influencer-platform/package.json
-|4,39,33,2,1723524621,"~/brand-influencer-platform/package.json"
--'  33  2  ~/brand-influencer-platform/package.json
-|4,39,33,2,1723524621,"~/brand-influencer-platform/package.json"
--'  33  2  ~/brand-influencer-platform/package.json
-|4,39,33,2,1723524621,"~/brand-influencer-platform/package.json"
--'  1  0  ~/brand-influencer-platform/package.json
-|4,39,1,0,1723524617,"~/brand-influencer-platform/package.json"
--'  1  0  ~/brand-influencer-platform/package.json
-|4,39,1,0,1723524617,"~/brand-influencer-platform/package.json"
--'  1  0  ~/brand-influencer-platform/package.json
-|4,39,1,0,1723524617,"~/brand-influencer-platform/package.json"
--'  1  0  ~/brand-influencer-platform/package.json
-|4,39,1,0,1723524617,"~/brand-influencer-platform/package.json"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524492,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524443,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524439,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  2  0  ~/brand-influencer-platform/src/config.js
-|4,39,2,0,1723524438,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524384,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  0  ~/brand-influencer-platform/src/config.js
-|4,39,1,0,1723524376,"~/brand-influencer-platform/src/config.js"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
--'  1  40  ~/backend/.env
-|4,39,1,40,1723524182,"~/backend/.env"
+-'  1  0  ~/brand-influencer-platform/src/pages/CreateProfile.js
+|4,39,1,0,1723573528,"~/brand-influencer-platform/src/pages/CreateProfile.js"
+-'  41  5  ~/brand-influencer-platform/src/App.js
+|4,39,41,5,1723573509,"~/brand-influencer-platform/src/App.js"
+-'  41  5  ~/brand-influencer-platform/src/App.js
+|4,39,41,5,1723573509,"~/brand-influencer-platform/src/App.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/HomePage.js
+|4,39,1,0,1723566445,"~/brand-influencer-platform/src/pages/HomePage.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/HomePage.js
+|4,39,1,0,1723566445,"~/brand-influencer-platform/src/pages/HomePage.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/HomePage.js
+|4,39,1,0,1723566445,"~/brand-influencer-platform/src/pages/HomePage.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/HomePage.js
+|4,39,1,0,1723566445,"~/brand-influencer-platform/src/pages/HomePage.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/pages/BrandProfile.js
+|4,39,1,0,1723566429,"~/brand-influencer-platform/src/pages/BrandProfile.js"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.css
+|4,39,1,0,1723566395,"~/brand-influencer-platform/src/index.css"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/index.js
+|4,39,1,0,1723566383,"~/brand-influencer-platform/src/index.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
+-'  1  0  ~/brand-influencer-platform/src/reportWebVitals.js
+|4,39,1,0,1723566367,"~/brand-influencer-platform/src/reportWebVitals.js"
 
 # History of marks within files (newest to oldest):
 
+> ~/brand-influencer-platform/src/pages/CreateProfile.js
+	*	1723573522	0
+	"	1	0
+
 > ~/brand-influencer-platform/src/App.js
-	*	1723524877	0
-	"	8	30
+	*	1723573501	0
+	"	41	5
 	^	6	33
 	.	5	0
 	+	8	51
@@ -303,6 +309,34 @@
 	+	9	29
 	+	10	0
 	+	5	0
+
+> ~/brand-influencer-platform/src/pages/HomePage.js
+	*	1723566439	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/pages/BrandProfile.js
+	*	1723566414	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/index.css
+	*	1723566389	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/index.js
+	*	1723566374	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/reportWebVitals.js
+	*	1723566357	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/setupTests.js
+	*	1723566344	0
+	"	1	0
+
+> ~/brand-influencer-platform/src/App.test.js
+	*	1723566323	0
+	"	1	0
 
 > ~/brand-influencer-platform/package.json
 	*	1723524620	0
