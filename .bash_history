@@ -252,3 +252,71 @@ ls
 cd backend
 ls
 npm start
+cd brand-influencer-platform/
+cd src
+vi App.js 
+ls
+cd pages/
+ls
+vi CreateProfile.js 
+cd ..
+npm start
+cd ..
+ls
+git add brand-influencer-platform
+git commit -m "Initial checkin"
+git push origin master
+git submodule init
+git submodule update --remote
+git submodule updategit clone --recurse-submodule
+git clone --recurse-submodules https://github.com/arun-choicely/Choicely-aws/tree/master/brand-influencer-platform
+git rm --cached https://github.com/arun-choicely/Choicely-aws/tree/master 
+git rm --cached https://github.com/arun-choicely/Choicely-aws/tree/master/brand-influencer-platform
+git rm -r *
+git rm -r --cached *
+git add .
+git commit -m "Removed all the files"
+git push origin master
+git add brand-influencer-platform backend
+git commit -m "Initial checkin of frontend and backend code"
+git push origin master
+git credential-cache exit
+git remote set-url origin git@github.com:arun-choicely/Choicely-aws.git
+git push origin master
+git add brand-influencer-platform backend
+git commit -m "Initial checkin of frontend and backend code"
+git add -A
+git commit -m "Initial checkin of frontend and backend code"
+git push origin master
+git remote set-url origin git@github.com:arun-choicely/Choicely-aws.git
+git push origin master
+git add -A
+git commit -m "Initial checkin of frontend and backend code"
+git push origin master
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "arun@choicely.ai"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws.git
+git push origin master
+git credential-cache exit
+git config --global credential.helper cache
+git push origin master
+ls
+git init
+git remote add origin https://github.com/arun-choicely/Choicely-aws.git
+git add backend
+git add brand-influencer-platform
+git commit -m "Initial check-in of backend and frontend code"
+git add .gitconfig
+git add brand-influencer-platform
+git add .ssh/id_rsa
+git add .ssh/id_rsa.pub
+git commit -m "Added backend and frontend code, updated .gitconfig, and added SSH keys"
+git push origin master
+git remote set-url origin https://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@github.com/arun-choicely/Choicely-aws.git
+git credential-cache exit
+git remote -v
+git remote set-url origin https://github.com/arun-choicely/Choicely-aws.git
+git push origin master
